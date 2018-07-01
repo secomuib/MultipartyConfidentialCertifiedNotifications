@@ -1,0 +1,81 @@
+body {
+    margin-top: 50px;
+}
+
+.nav-tabs .glyphicon:not(.no-margin) {
+    margin-right: 10px;
+}
+
+.tab-pane .list-group-item:first-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+
+.botonMail{
+    float: right;
+    margin-top: -7px;
+    margin-left: 2%;
+
+}
+
+.tab-pane .list-group-item:last-child {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.tab-pane .list-group .checkbox {
+    display: inline-block;
+    margin: 0px;
+}
+
+.tab-pane .list-group input[type="checkbox"] {
+    margin-top: 2px;
+}
+
+.tab-pane .list-group .glyphicon {
+    margin-right: 5px;
+}
+
+    .tab-pane .list-group .glyphicon:hover {
+        color: #FFBC00;
+    }
+
+a.list-group-item.read {
+    color: #222;
+    background-color: #F3F3F3;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.botonLogout {
+    float: right;
+    margin-right: 25px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+    width: 10%;
+    border-color: white;
+    background-color: #337ab7;
+    font-weight: bold;
+    font-size: medium;
+    color: white;
+}
+
+    .botonLogout:hover {
+        border-color: white;
+        background-color: #275d8b;
+        color: white;
+    }
+
+
+.nav-pills > li > a {
+    padding: 5px 10px;
+}
+
+.name{
+    margin-left:4%;
+}
+

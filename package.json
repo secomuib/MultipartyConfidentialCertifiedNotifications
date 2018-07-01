@@ -1,0 +1,20 @@
+{
+  "name": "certifiedmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.21",
+    "web3": "github:ethereum/web3.js",
+    "wrapper": "^0.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
